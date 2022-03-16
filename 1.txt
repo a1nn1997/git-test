@@ -10,5 +10,6 @@ git checkout main   //main branch correspondance
 git merge ann1  //to merge ann1 request
 git push origin main    // to take ann1 change
 
-#for every new feature
+#for every new featur
 create separate branch for every pull request
+
