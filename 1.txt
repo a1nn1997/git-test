@@ -9,3 +9,4 @@ git push --set-upstream origin ann1     //push in our remote branch
 git checkout main   //main branch correspondance
 git merge ann1  //to merge ann1 request
 git push origin main    // to take ann1 change
+create separate branch for every pull request
