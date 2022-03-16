@@ -2,3 +2,7 @@ this is file 1
 git branch ann1
 git checkout ann1
 git push --set-upstream origin ann1
+
+
+for other repository first fork it
+git push origin ann2
