@@ -10,6 +10,8 @@ git checkout main   //main branch correspondance
 git merge ann1  //to merge ann1 request
 git push origin main    // to take ann1 change
 
-#for every new featur
+#for every new feature
 create separate branch for every pull request
 
+git checkout -b lab_report_encryption_and_decryption
+git push -f origin multiple_bahmni_ids lab_report_encryption_and_decryption
